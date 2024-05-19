@@ -1,4 +1,4 @@
-# Proyecto de Base de Datos para Librería
+# Proyecto de Base de Datos para Sistema de Gestión Editorial
 
 Este repositorio contiene el script SQL para crear y poblar la base de datos del sistema de Gestión de Editoriales. La base de datos está diseñada para manejar consignaciones, ventas, ediciones de libros, y más. A continuación, se detallan las tablas y sus relaciones, así como las instrucciones para importar el script en tu servidor MySQL.
 
